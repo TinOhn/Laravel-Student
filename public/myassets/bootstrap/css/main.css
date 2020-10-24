@@ -1,0 +1,24 @@
+.btn1 {
+  background: #dca73a;
+  border: medium none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  line-height: 0;
+  margin-top: 20px;
+  margin-bottom: 0;
+  padding: 25px 39px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.btn1:hover {
+  background: #f1b233;
+  color: #fff;
+}
+
+
+
